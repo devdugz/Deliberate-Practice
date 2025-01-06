@@ -1,5 +1,5 @@
 array1 = ["hello, goodbye"]
-array2 = []
+array3 = []
 index = 0
 
 while index < array1.length
@@ -8,4 +8,4 @@ while index < array1.length
   index = index + 1
 end
 
-puts array2
+puts array3
